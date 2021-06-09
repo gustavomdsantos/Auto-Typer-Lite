@@ -1,5 +1,5 @@
 # Auto-Typer-Lite
-Automatize a digitação de coisas como datas, CPFs, CNPJs e números aleatórios.
+Automatize a digitação de coisas como datas, CPFs, CNPJs e números aleatórios no Windows.
 
 ## Instalação
 
@@ -14,11 +14,11 @@ O **Auto-Typer-Lite** é executado em background durante todo o tempo em que o c
 
 | Atalho | Automação |
 |--------|-----------|
-| `Ctrl` + `Alt` + `T` | A data de hoje, no formato DD/MM/AAAA |
-| `Ctrl` + `Alt` + `F` | Um CPF aleatório válido |
-| `Ctrl` + `Alt` + `J` | Um CNPJ aleatório válido |
-| `Ctrl` + `Alt` + `N` | Um número aleatório qualquer, de 9 dígitos (útil para nºs de NF-e) |
-| `Ctrl` + `Alt` + `R` | Remove caracteres não-numéricos (útil para remover máscaras de nºs de telefone, CPF, CNPJ, etc) |
+| `Ctrl`+`Alt`+`T` | A data de hoje, no formato DD/MM/AAAA |
+| `Ctrl`+`Alt`+`F` | Um CPF aleatório válido |
+| `Ctrl`+`Alt`+`J` | Um CNPJ aleatório válido |
+| `Ctrl`+`Alt`+`N` | Um número aleatório qualquer, de 9 dígitos (útil para nºs de NF-e) |
+| `Ctrl`+`Alt`+`R` | Remove caracteres não-numéricos (útil para remover máscaras de nºs de telefone, CPF, CNPJ, etc) |
 
 ## Contribuindo
 
