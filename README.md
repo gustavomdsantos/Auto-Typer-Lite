@@ -14,7 +14,7 @@ Baixe e execute o arquivo `.exe` do **Auto-Typer-Lite** compilado na seção [Re
 
 ## Usagem
 
-O **Auto-Typer-Lite** é executado em background durante todo o tempo em que o computador estiver ligado. Para usar ele, basta apertar os seguintes atalhos de teclado no computador, em qualquer caixa de texto e em qualquer programa:
+O **Auto-Typer-Lite** é executado em _background_ durante todo o tempo em que o computador estiver ligado. Para usar ele, basta apertar os seguintes atalhos de teclado no computador, em qualquer caixa de texto e em qualquer programa:
 
 | Atalho | Automação |
 |--------|-----------|
@@ -23,6 +23,10 @@ O **Auto-Typer-Lite** é executado em background durante todo o tempo em que o c
 | `Ctrl`+`Alt`+`J` | Um CNPJ aleatório válido |
 | `Ctrl`+`Alt`+`N` | Um número aleatório qualquer, de 9 dígitos (útil para nºs de NF-e) |
 | `Ctrl`+`Alt`+`R` | Remove caracteres não-numéricos (útil para remover máscaras de nºs de telefone, CPF, CNPJ, etc) – obs.: é necessário antes selecionar o texto desejado |
+
+Caso queira encerrar o **Auto-Typer-Lite**, vá na barra de tarefas do Windows, clique com o botão direito do mouse no ícone do aplicativo (<img src="https://github.com/gustavomdsantos/Auto-Typer-Lite/raw/master/auto-typer-lite.ico" alt="icon" width="16">) e depois clique no menu "Exit".
+
+Você pode também adicionar o **Auto-Typer-Lite** à inicialização do Windows copiando e colando o `.exe` ou um atalho para ele na pasta 
 
 ## Contribuindo
 
