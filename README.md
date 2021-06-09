@@ -26,7 +26,7 @@ O **Auto-Typer-Lite** é executado em _background_ durante todo o tempo em que o
 
 Caso queira encerrar o **Auto-Typer-Lite**, vá na barra de tarefas do Windows, clique com o botão direito do mouse no ícone do aplicativo (<img src="https://github.com/gustavomdsantos/Auto-Typer-Lite/raw/master/auto-typer-lite.ico" alt="icon" width="16">) e depois clique no menu "Exit".
 
-Você pode também adicionar o **Auto-Typer-Lite** à inicialização do Windows copiando e colando o `.exe` ou um atalho para ele na pasta 
+Você pode também adicionar o **Auto-Typer-Lite** à inicialização do Windows copiando e colando o `.exe` ou um atalho para ele na pasta `%USERPROFILE%\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`.
 
 ## Contribuindo
 
