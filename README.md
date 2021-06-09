@@ -1,9 +1,13 @@
 # Auto-Typer-Lite
 Automatize a digitação de coisas como datas, CPFs, CNPJs e números aleatórios no Windows.
 
-## Instalação
+## Instalação rápida
 
-Baixe e execute o arquivo `.exe` do **Auto-Typer-Lite** compilado na seção [Releases](https://github.com/gustavomdsantos/Auto-Typer-Lite/releases), ou:
+Baixe e execute o arquivo `.exe` do **Auto-Typer-Lite** compilado na seção [Releases](https://github.com/gustavomdsantos/Auto-Typer-Lite/releases) ou no link direto abaixo:
+
+[![Baixar para Windows](https://img.shields.io/badge/%20Baixar%20para-Windows-0078D6.svg?style=for-the-badge&logo=windows&colorA=263238&logoColor=0078D6)](https://github.com/gustavomdsantos/Auto-Typer-Lite/releases/download/v1.0/Auto-Typer-Lite.exe)
+
+## Instalação avançada
 
 1. Baixe e instale o interpretador [AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe);
 2. Baixe o script do **Auto-Typer-Lite** [aqui](https://github.com/gustavomdsantos/Auto-Typer-Lite/raw/master/Auto-Typer-Lite.ahk) e abra o script com o _AutoHotkey_ previamente instalado.
@@ -18,7 +22,7 @@ O **Auto-Typer-Lite** é executado em background durante todo o tempo em que o c
 | `Ctrl`+`Alt`+`F` | Um CPF aleatório válido |
 | `Ctrl`+`Alt`+`J` | Um CNPJ aleatório válido |
 | `Ctrl`+`Alt`+`N` | Um número aleatório qualquer, de 9 dígitos (útil para nºs de NF-e) |
-| `Ctrl`+`Alt`+`R` | Remove caracteres não-numéricos (útil para remover máscaras de nºs de telefone, CPF, CNPJ, etc) |
+| `Ctrl`+`Alt`+`R` | Remove caracteres não-numéricos (útil para remover máscaras de nºs de telefone, CPF, CNPJ, etc) – obs.: é necessário antes selecionar o texto desejado |
 
 ## Contribuindo
 
