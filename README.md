@@ -3,7 +3,7 @@
 
 [![latest](https://img.shields.io/github/v/release/gustavomdsantos/Auto-Typer-Lite?color=45b051&label=%C3%9Altima%20vers%C3%A3o%3A)](https://github.com/gustavomdsantos/Auto-Typer-Lite/releases/latest)
 
-Automatize a digitação de coisas como datas, CPFs, CNPJs e números aleatórios no Windows.
+Automatize a digitação de datas, CPFs, CNPJs e números aleatórios no Windows.
 
 ## Instalação rápida
 
